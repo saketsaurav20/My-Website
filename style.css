@@ -138,7 +138,8 @@ nav ul {
 }
 
 #logo-img img {
-    height: 100px;
+    height: 70px;
+    
 }
 
 #logo-img:hover {
@@ -318,7 +319,7 @@ footer #right-footer {
 }
 
 footer #social-media-footer a .fa-facebook,
-footer #social-media-footer a .fa-youtube,
+footer #social-media-footer a .fa-linkedin,
 footer #social-media-footer a .fa-github {
     color: white;
     transition: 0.4s;
@@ -337,16 +338,16 @@ footer #social-media-footer ul li {
     transition: 0.4s;
 }
 
-footer #social-media-footer ul li:hover a .fa-youtube {
-    color: red;
+footer #social-media-footer ul li:hover a .fa-linkedin {
+    color:#4875B4;
 }
 
 footer #social-media-footer ul li:hover a .fa-facebook {
-    color: #3b5998;
+    color:#3B5998;
 }
 
 footer #social-media-footer ul li:hover a .fa-github {
-    color: #bbb;
+    color: #6e5494;
 }
 
 /* Blog List page */
